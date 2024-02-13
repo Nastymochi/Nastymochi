@@ -1,5 +1,6 @@
 ### 
-https://tenor.com/en-GB/view/hello-gif-24408873
+![hello](https://github.com/Nastymochi/Nastymochi/assets/138005331/14690180-3fab-450e-9742-a156f672aefe)
+
 Hi there 👋
 
 <!--
