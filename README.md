@@ -1,19 +1,15 @@
-### 
-![hello](https://github.com/Nastymochi/Nastymochi/assets/138005331/14690180-3fab-450e-9742-a156f672aefe)
+![hello](https://github.com/Nastymochi/Nastymochi/assets/138005331/14690180-3fab-450e-9742-a156f672aefe) 
+# Hello! 
+This text is larger.My name is cj, a university student and aspiring data scientist | developer.<br> 
+Data enthusiast. Coffee addict. Coding Navigator but still python. Full Time Student <br> 
+Reading books and research for fun, visiting coffee shops for peace of mind <br> 
+A lifelong learner, thrill taker, a collective knowledge enjoyer
 
-Hi there 👋
 
-<!--
-**Nastymochi/Nastymochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+ I'm currently working on... 
+
+
