@@ -10,6 +10,8 @@ A lifelong learner, thrill taker, a collective knowledge enjoyer
 
 
  
-##### ![cute-dancing](https://github.com/Nastymochi/Nastymochi/assets/138005331/ae07d2e5-0634-4d23-9aea-2485548298fb) I'm currently working on... 
+##### ![cute-dancing](https://github.com/Nastymochi/Nastymochi/assets/138005331/ae07d2e5-0634-4d23-9aea-2485548298fb) I'm currently working on...
+* ![study](https://github.com/Nastymochi/Nastymochi/assets/138005331/509bfb65-3f24-4c7a-bc46-61ce9db5f76a)  Improving myself
+* ![gdsclogo](https://github.com/Nastymochi/Nastymochi/assets/138005331/c4f9852f-d807-457a-b1a9-a8d0f8837b31) GDSC Developer
 
 
